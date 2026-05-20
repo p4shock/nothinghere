@@ -84,3 +84,17 @@ visuality
 zoomify
 lazy-language-loader
 malilib-
+smoothchunk
+smoothmovement
+gnetum
+EnhancedVisuals
+enhancedblockentities
+CullLessLeaves
+colorwheel
+chloride
+cherishedworlds
+BetterAdvancements
+AsyncParticles
+seamless
+Sounds-
+YeetusExperimentus
