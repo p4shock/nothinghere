@@ -99,3 +99,5 @@ seamless
 Sounds-
 YeetusExperimentus
 XaeroPlus
+taczammoquery
+feytweaks
