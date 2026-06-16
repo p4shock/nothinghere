@@ -101,3 +101,11 @@ YeetusExperimentus
 XaeroPlus
 taczammoquery
 feytweaks
+blockentities
+durabilitytooltip
+duradisplay
+fast-ip-ping
+enchdesc
+LegendaryTooltips
+iris
+Prism-
