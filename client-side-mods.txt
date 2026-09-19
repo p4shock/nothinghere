@@ -126,3 +126,6 @@ soundofrain
 spiffyhud
 statuseffectbars
 ItemPhysic
+camera_inertia
+JustEnoughResources
+rinku_
