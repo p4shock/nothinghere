@@ -130,3 +130,14 @@ camera_inertia
 JustEnoughResources
 rinku_
 melody_
+FancyBlockParticles
+firstperson-
+OverflowingBars-
+particular-
+borderless-mining-
+CameraOverhaul
+tooltipfix
+translucencyfix
+Shut Up GL Error
+seasonhud
+SmoothScrollingRefurbished
