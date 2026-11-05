@@ -126,6 +126,7 @@ soundofrain
 spiffyhud
 statuseffectbars
 ItemPhysic
+ItemPhysicLite
 camera_inertia
 JustEnoughResources
 rinku_
@@ -157,3 +158,5 @@ visual_keybinder-
 rubidium-extra
 betterfpsdist
 blur-
+ItemBorders
+tp_shooting-
