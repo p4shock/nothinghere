@@ -155,3 +155,5 @@ TravelersTitles-
 treasuredistance-
 visual_keybinder-
 rubidium-extra
+betterfpsdist
+blur-
