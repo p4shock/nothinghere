@@ -141,3 +141,16 @@ translucencyfix
 Shut Up GL Error
 seasonhud
 SmoothScrollingRefurbished
+drippyloadingscreen
+eatinganimation
+ImmersiveUI
+LeaveMyBarsAlone
+moreoverlays
+NekosEnchantedBooks
+particle_core
+Pretty Rain-
+SimplyTooltips
+StylishEffects-
+TravelersTitles-
+treasuredistance-
+visual_keybinder-
